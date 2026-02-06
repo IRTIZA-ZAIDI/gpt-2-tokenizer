@@ -1,0 +1,2 @@
+SentencePiece is an unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation systems.
+It supports subword units such as BPE and unigram language models.
